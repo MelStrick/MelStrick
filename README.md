@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MelStrick
-- 🌱 I’m currently learning skills to make a career change. I'm currently working on increasing my skills in front end development. 
+- 🌱 I’m currently learning skills to make a career change. 
 - 📫 How to reach me: mel.d.strick@gmail.com
 
 <!---
